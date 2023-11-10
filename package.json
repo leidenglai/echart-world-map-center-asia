@@ -1,0 +1,16 @@
+{
+  "name": "echart-world-map-center-asia",
+  "version": "1.0.0",
+  "description": "Echart世界地图转换为亚洲中国为中心",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echart",
+    "geo",
+    "world"
+  ],
+  "author": "leidenglai@qq.com",
+  "license": "ISC"
+}
